@@ -1,4 +1,4 @@
-# Pitt Ads Processing Pipeline
+# Pitt Image Ads Processing Pipeline
 
 This repository contains  clean, runnable Python scripts that:
 
