@@ -1,0 +1,56 @@
+{
+  "Public Awareness & Social Impact Campaigns": {
+    "common_layouts": {
+      "image_heavy": 485,
+      "balanced": 20,
+      "text_heavy": 2
+    },
+    "dominant_colors": [
+      "#EEE5D1",
+      "#BDE1F6",
+      "#20211F",
+      "#C7E5F3",
+      "#040404"
+    ]
+  },
+  "Retail & Promotional Consumer Ads": {
+    "common_layouts": {
+      "image_heavy": 707,
+      "balanced": 13,
+      "text_heavy": 4
+    },
+    "dominant_colors": [
+      "#050505",
+      "#040404",
+      "#191B1B",
+      "#0B0B0B",
+      "#ECEBE4"
+    ]
+  },
+  "Behavioral / Action-Oriented Messaging": {
+    "common_layouts": {
+      "image_heavy": 717,
+      "balanced": 45,
+      "text_heavy": 1
+    },
+    "dominant_colors": [
+      "#1D1D1D",
+      "#CECECE",
+      "#CFCFD4",
+      "#ECECEC",
+      "#434343"
+    ]
+  },
+  "Brand & Packaged Goods Messaging": {
+    "common_layouts": {
+      "image_heavy": 52
+    },
+    "dominant_colors": [
+      "#EBEAEA",
+      "#E4E8EC",
+      "#F5CCCA",
+      "#C49E96",
+      "#CCC5BE"
+    ]
+  }
+}

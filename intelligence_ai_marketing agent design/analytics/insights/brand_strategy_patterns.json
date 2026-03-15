@@ -1,0 +1,1102 @@
+{
+  "chips": {
+    "num_ads": 131,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 49,
+      "Behavioral / Action-Oriented Messaging": 42,
+      "Retail & Promotional Consumer Ads": 40
+    },
+    "avg_sentiment": 0.2412206106870229,
+    "top_keywords": [
+      "gum",
+      "new",
+      "mint",
+      "biscuit",
+      "taste",
+      "perfect",
+      "bubble",
+      "flavors",
+      "good",
+      "treat"
+    ]
+  },
+  "media": {
+    "num_ads": 35,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 15,
+      "Public Awareness & Social Impact Campaigns": 12,
+      "Retail & Promotional Consumer Ads": 8
+    },
+    "avg_sentiment": 0.1452514285714286,
+    "top_keywords": [
+      "long",
+      "time",
+      "performance",
+      "friday",
+      "www",
+      "man",
+      "2014",
+      "price",
+      "ad",
+      "new"
+    ]
+  },
+  "clothing": {
+    "num_ads": 80,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 32,
+      "Behavioral / Action-Oriented Messaging": 26,
+      "Public Awareness & Social Impact Campaigns": 22
+    },
+    "avg_sentiment": 0.21635125000000005,
+    "top_keywords": [
+      "lacoste",
+      "com",
+      "beautiful",
+      "life",
+      "shop",
+      "collection",
+      "new",
+      "sale",
+      "gift",
+      "guaranteed"
+    ]
+  },
+  "shopping": {
+    "num_ads": 38,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 15,
+      "Retail & Promotional Consumer Ads": 13,
+      "Public Awareness & Social Impact Campaigns": 10
+    },
+    "avg_sentiment": 0.12823157894736845,
+    "top_keywords": [
+      "friday",
+      "code",
+      "reg",
+      "shop",
+      "99",
+      "black",
+      "store",
+      "set",
+      "bring",
+      "2014"
+    ]
+  },
+  "cars": {
+    "num_ads": 195,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 73,
+      "Brand & Packaged Goods Messaging": 52,
+      "Retail & Promotional Consumer Ads": 46,
+      "Public Awareness & Social Impact Campaigns": 24
+    },
+    "avg_sentiment": 0.14540358974358972,
+    "top_keywords": [
+      "nissan",
+      "new",
+      "com",
+      "excites",
+      "car",
+      "don",
+      "dealer",
+      "cars",
+      "motor",
+      "drive"
+    ]
+  },
+  "chocolate": {
+    "num_ads": 306,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 111,
+      "Public Awareness & Social Impact Campaigns": 99,
+      "Retail & Promotional Consumer Ads": 96
+    },
+    "avg_sentiment": 0.16840816993464053,
+    "top_keywords": [
+      "chocolate",
+      "ice",
+      "break",
+      "haagen",
+      "cream",
+      "oreo",
+      "cookie",
+      "cookies",
+      "dazs",
+      "like"
+    ]
+  },
+  "environment": {
+    "num_ads": 59,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 31,
+      "Behavioral / Action-Oriented Messaging": 19,
+      "Public Awareness & Social Impact Campaigns": 9
+    },
+    "avg_sentiment": 0.05886949152542373,
+    "top_keywords": [
+      "power",
+      "energy",
+      "people",
+      "nature",
+      "change",
+      "chicago",
+      "save",
+      "plans",
+      "children",
+      "org"
+    ]
+  },
+  "human_right": {
+    "num_ads": 8,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 7,
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.0625,
+    "top_keywords": [
+      "end",
+      "let",
+      "international",
+      "helps",
+      "child",
+      "text",
+      "work",
+      "ca",
+      "people",
+      "don"
+    ]
+  },
+  "financial": {
+    "num_ads": 118,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 55,
+      "Retail & Promotional Consumer Ads": 39,
+      "Public Awareness & Social Impact Campaigns": 24
+    },
+    "avg_sentiment": 0.16336016949152543,
+    "top_keywords": [
+      "citibank",
+      "citi",
+      "money",
+      "miles",
+      "banking",
+      "bank",
+      "card",
+      "credit",
+      "loan",
+      "live"
+    ]
+  },
+  "restaurant": {
+    "num_ads": 248,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 96,
+      "Retail & Promotional Consumer Ads": 94,
+      "Public Awareness & Social Impact Campaigns": 58
+    },
+    "avg_sentiment": 0.1323241935483871,
+    "top_keywords": [
+      "burger",
+      "new",
+      "pizza",
+      "eat",
+      "sandwich",
+      "cheese",
+      "chicken",
+      "king",
+      "big",
+      "taste"
+    ]
+  },
+  "smoking_alcohol_abuse": {
+    "num_ads": 33,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 20,
+      "Behavioral / Action-Oriented Messaging": 8,
+      "Public Awareness & Social Impact Campaigns": 5
+    },
+    "avg_sentiment": 0.10504545454545454,
+    "top_keywords": [
+      "smoking",
+      "cancer",
+      "family",
+      "baby",
+      "ny",
+      "ca",
+      "like",
+      "isn",
+      "pleasure",
+      "drink"
+    ]
+  },
+  "beauty": {
+    "num_ads": 138,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 67,
+      "Retail & Promotional Consumer Ads": 44,
+      "Public Awareness & Social Impact Campaigns": 27
+    },
+    "avg_sentiment": 0.1720804347826087,
+    "top_keywords": [
+      "dove",
+      "new",
+      "skin",
+      "soap",
+      "beauty",
+      "color",
+      "look",
+      "hair",
+      "shop",
+      "like"
+    ]
+  },
+  "domestic_violence": {
+    "num_ads": 37,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 19,
+      "Behavioral / Action-Oriented Messaging": 17,
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.03231081081081081,
+    "top_keywords": [
+      "domestic",
+      "violence",
+      "foundation",
+      "women",
+      "hard",
+      "help",
+      "blue",
+      "que",
+      "cause",
+      "wo"
+    ]
+  },
+  "healthcare": {
+    "num_ads": 43,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 18,
+      "Behavioral / Action-Oriented Messaging": 16,
+      "Public Awareness & Social Impact Campaigns": 9
+    },
+    "avg_sentiment": 0.14794883720930233,
+    "top_keywords": [
+      "heart",
+      "care",
+      "health",
+      "center",
+      "institute",
+      "cause",
+      "insurance",
+      "en",
+      "family",
+      "looking"
+    ]
+  },
+  "safety": {
+    "num_ads": 91,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 44,
+      "Behavioral / Action-Oriented Messaging": 32,
+      "Public Awareness & Social Impact Campaigns": 15
+    },
+    "avg_sentiment": 0.042438461538461536,
+    "top_keywords": [
+      "don",
+      "cut",
+      "soap",
+      "save",
+      "low",
+      "text",
+      "america",
+      "drive",
+      "fat",
+      "org"
+    ]
+  },
+  "phone_tv_internet_providers": {
+    "num_ads": 7,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 3,
+      "Behavioral / Action-Oriented Messaging": 3,
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.21732857142857145,
+    "top_keywords": [
+      "mobile",
+      "phone",
+      "plans",
+      "month",
+      "air",
+      "smart",
+      "win",
+      "plan",
+      "watch",
+      "better"
+    ]
+  },
+  "coffee": {
+    "num_ads": 32,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 15,
+      "Behavioral / Action-Oriented Messaging": 9,
+      "Retail & Promotional Consumer Ads": 8
+    },
+    "avg_sentiment": 0.29846249999999996,
+    "top_keywords": [
+      "coffee",
+      "share",
+      "time",
+      "perfect",
+      "good",
+      "day",
+      "simple",
+      "best",
+      "friends",
+      "brand"
+    ]
+  },
+  "soda": {
+    "num_ads": 65,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 24,
+      "Behavioral / Action-Oriented Messaging": 23,
+      "Public Awareness & Social Impact Campaigns": 18
+    },
+    "avg_sentiment": 0.17204615384615385,
+    "top_keywords": [
+      "energy",
+      "life",
+      "drink",
+      "water",
+      "pure",
+      "needs",
+      "like",
+      "sugar",
+      "make",
+      "live"
+    ]
+  },
+  "animal_right": {
+    "num_ads": 50,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 27,
+      "Behavioral / Action-Oriented Messaging": 15,
+      "Public Awareness & Social Impact Campaigns": 8
+    },
+    "avg_sentiment": 0.040662000000000004,
+    "top_keywords": [
+      "animals",
+      "let",
+      "try",
+      "feel",
+      "local",
+      "wear",
+      "dairy",
+      "skin",
+      "needs",
+      "make"
+    ]
+  },
+  "self_esteem": {
+    "num_ads": 22,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 11,
+      "Behavioral / Action-Oriented Messaging": 8,
+      "Public Awareness & Social Impact Campaigns": 3
+    },
+    "avg_sentiment": 0.05545909090909091,
+    "top_keywords": [
+      "support",
+      "worth",
+      "st",
+      "age",
+      "leave",
+      "experience",
+      "men",
+      "don",
+      "talk",
+      "home"
+    ]
+  },
+  "topic_girl scouts": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "school",
+      "learn"
+    ]
+  },
+  "software": {
+    "num_ads": 14,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 7,
+      "Retail & Promotional Consumer Ads": 6,
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.11730714285714286,
+    "top_keywords": [
+      "data",
+      "real",
+      "business",
+      "treat",
+      "need",
+      "make",
+      "life",
+      "working",
+      "mobile",
+      "brand"
+    ]
+  },
+  "travel": {
+    "num_ads": 34,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 16,
+      "Retail & Promotional Consumer Ads": 9,
+      "Public Awareness & Social Impact Campaigns": 9
+    },
+    "avg_sentiment": 0.23291470588235294,
+    "top_keywords": [
+      "23",
+      "800",
+      "travel",
+      "savings",
+      "air",
+      "london",
+      "ad",
+      "points",
+      "free",
+      "rewards"
+    ]
+  },
+  "topic_Pepperidge Farm Bread": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "pepperidge",
+      "stand",
+      "flavor"
+    ]
+  },
+  "alcohol": {
+    "num_ads": 59,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 25,
+      "Retail & Promotional Consumer Ads": 20,
+      "Behavioral / Action-Oriented Messaging": 14
+    },
+    "avg_sentiment": 0.2753254237288135,
+    "top_keywords": [
+      "best",
+      "probably",
+      "world",
+      "new",
+      "good",
+      "100",
+      "com",
+      "man",
+      "like",
+      "york"
+    ]
+  },
+  "electronics": {
+    "num_ads": 56,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 21,
+      "Behavioral / Action-Oriented Messaging": 20,
+      "Public Awareness & Social Impact Campaigns": 15
+    },
+    "avg_sentiment": 0.24130000000000001,
+    "top_keywords": [
+      "acer",
+      "worth",
+      "windows",
+      "camera",
+      "pc",
+      "hd",
+      "broadband",
+      "make",
+      "plan",
+      "free"
+    ]
+  },
+  "cleaning": {
+    "num_ads": 4,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 2,
+      "Behavioral / Action-Oriented Messaging": 1,
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.12665,
+    "top_keywords": [
+      "gives",
+      "skin",
+      "know",
+      "use",
+      "test",
+      "important",
+      "learn",
+      "facebook"
+    ]
+  },
+  "other_service": {
+    "num_ads": 11,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 7,
+      "Retail & Promotional Consumer Ads": 2,
+      "Public Awareness & Social Impact Campaigns": 2
+    },
+    "avg_sentiment": 0.15961818181818183,
+    "top_keywords": [
+      "com",
+      "mobile",
+      "world",
+      "test",
+      "mind",
+      "box",
+      "little",
+      "air",
+      "200",
+      "american"
+    ]
+  },
+  "baby": {
+    "num_ads": 10,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 4,
+      "Retail & Promotional Consumer Ads": 4,
+      "Public Awareness & Social Impact Campaigns": 2
+    },
+    "avg_sentiment": 0.19295,
+    "top_keywords": [
+      "baby",
+      "cause",
+      "air",
+      "store",
+      "shop",
+      "ad",
+      "100",
+      "best",
+      "light",
+      "red"
+    ]
+  },
+  "charities": {
+    "num_ads": 26,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 12,
+      "Retail & Promotional Consumer Ads": 9,
+      "Behavioral / Action-Oriented Messaging": 5
+    },
+    "avg_sentiment": 0.19471153846153844,
+    "top_keywords": [
+      "foundation",
+      "chance",
+      "probably",
+      "inside",
+      "cancer",
+      "family",
+      "american",
+      "join",
+      "going",
+      "future"
+    ]
+  },
+  "seasoning": {
+    "num_ads": 16,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 7,
+      "Public Awareness & Social Impact Campaigns": 5,
+      "Behavioral / Action-Oriented Messaging": 4
+    },
+    "avg_sentiment": 0.15336875,
+    "top_keywords": [
+      "ketchup",
+      "end",
+      "buy",
+      "like",
+      "ll",
+      "love",
+      "run",
+      "smart",
+      "home",
+      "15"
+    ]
+  },
+  "sports": {
+    "num_ads": 18,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 9,
+      "Public Awareness & Social Impact Campaigns": 6,
+      "Retail & Promotional Consumer Ads": 3
+    },
+    "avg_sentiment": 0.19768333333333332,
+    "top_keywords": [
+      "com",
+      "wo",
+      "life",
+      "sports",
+      "make",
+      "need",
+      "70",
+      "super",
+      "customers",
+      "working"
+    ]
+  },
+  "home_appliance": {
+    "num_ads": 12,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 5,
+      "Behavioral / Action-Oriented Messaging": 4,
+      "Retail & Promotional Consumer Ads": 3
+    },
+    "avg_sentiment": 0.24245833333333333,
+    "top_keywords": [
+      "load",
+      "air",
+      "windows",
+      "just",
+      "wireless",
+      "25",
+      "gift",
+      "asus",
+      "card",
+      "reg"
+    ]
+  },
+  "topic_Sex education advocacy": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "baby"
+    ]
+  },
+  "topic_jewelry": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.2667,
+    "top_keywords": [
+      "happy",
+      "love"
+    ]
+  },
+  "topic_guns": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.2695,
+    "top_keywords": [
+      "safety",
+      "motor",
+      "did"
+    ]
+  },
+  "topic_Baking, sugar": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": -0.3,
+    "top_keywords": [
+      "cause",
+      "low"
+    ]
+  },
+  "topic_health-related public service announcement": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.38,
+    "top_keywords": [
+      "baby",
+      "healthy",
+      "eat"
+    ]
+  },
+  "topic_Food": {
+    "num_ads": 5,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 3,
+      "Retail & Promotional Consumer Ads": 1,
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.24954,
+    "top_keywords": [
+      "multi",
+      "healthy",
+      "day",
+      "live",
+      "life",
+      "cancer",
+      "wo",
+      "fr",
+      "ready",
+      "meet"
+    ]
+  },
+  "topic_Condom use advocacy": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.2,
+    "top_keywords": [
+      "org",
+      "use"
+    ]
+  },
+  "topic_adoption": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.5,
+    "top_keywords": [
+      "wil"
+    ]
+  },
+  "topic_Fabrics & DIY": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.0714,
+    "top_keywords": [
+      "sale",
+      "stores",
+      "00"
+    ]
+  },
+  "game": {
+    "num_ads": 5,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 3,
+      "Behavioral / Action-Oriented Messaging": 2
+    },
+    "avg_sentiment": 0.01742,
+    "top_keywords": [
+      "end",
+      "tv",
+      "control",
+      "park",
+      "fast",
+      "national",
+      "center"
+    ]
+  },
+  "topic_tampons": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.1774,
+    "top_keywords": [
+      "free",
+      "old",
+      "days"
+    ]
+  },
+  "topic_Anti-Fat": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.4052,
+    "top_keywords": [
+      "make",
+      "meat",
+      "animals"
+    ]
+  },
+  "education": {
+    "num_ads": 2,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1,
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.125,
+    "top_keywords": [
+      "art",
+      "school",
+      "kids"
+    ]
+  },
+  "political": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.2068,
+    "top_keywords": [
+      "city",
+      "bar",
+      "15"
+    ]
+  },
+  "topic_Tobacco": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.0938,
+    "top_keywords": [
+      "tell"
+    ]
+  },
+  "topic_Bread, food": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "pizza"
+    ]
+  },
+  "home_improvement": {
+    "num_ads": 5,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 2,
+      "Behavioral / Action-Oriented Messaging": 2,
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.1406,
+    "top_keywords": [
+      "inside",
+      "free",
+      "sale",
+      "white",
+      "store",
+      "buy",
+      "need",
+      "tel",
+      "power",
+      "open"
+    ]
+  },
+  "topic_cigarettes": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": -0.1833,
+    "top_keywords": [
+      "lot",
+      "red",
+      "smoking"
+    ]
+  },
+  "topic_Safe sex": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.5833,
+    "top_keywords": [
+      "beautiful",
+      "free",
+      "com"
+    ]
+  },
+  "topic_Electric company": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "energy"
+    ]
+  },
+  "topic_tobacco products": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.289,
+    "top_keywords": [
+      "brand",
+      "friends",
+      "smoking"
+    ]
+  },
+  "topic_Insurance": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.2341,
+    "top_keywords": [
+      "health",
+      "plans",
+      "apply"
+    ]
+  },
+  "topic_Teen Pregnacy": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "world"
+    ]
+  },
+  "topic_gambling addiction": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.3,
+    "top_keywords": [
+      "ca",
+      "800",
+      "health"
+    ]
+  },
+  "topic_Drug abuse": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "isn",
+      "al",
+      "se"
+    ]
+  },
+  "security": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.2235,
+    "top_keywords": [
+      "ave",
+      "wear",
+      "order"
+    ]
+  },
+  "topic_Health advocacy": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.5,
+    "top_keywords": [
+      "healthy",
+      "eating"
+    ]
+  },
+  "topic_Anti-gun": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "violence",
+      "leave",
+      "think"
+    ]
+  },
+  "topic_Gun safety": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "child",
+      "safety",
+      "america"
+    ]
+  },
+  "topic_adult products": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Retail & Promotional Consumer Ads": 1
+    },
+    "avg_sentiment": 0.0,
+    "top_keywords": [
+      "gt",
+      "00",
+      "got"
+    ]
+  },
+  "topic_Pots": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.8,
+    "top_keywords": [
+      "recipe",
+      "end",
+      "great"
+    ]
+  },
+  "topic_livestock": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.1375,
+    "top_keywords": [
+      "000",
+      "sale",
+      "second"
+    ]
+  },
+  "topic_Dairy": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.2,
+    "top_keywords": [
+      "frozen",
+      "cookie",
+      "smooth"
+    ]
+  },
+  "topic_Bakery foods": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Public Awareness & Social Impact Campaigns": 1
+    },
+    "avg_sentiment": 0.225,
+    "top_keywords": [
+      "valid",
+      "sweet",
+      "original"
+    ]
+  },
+  "topic_Same as the other Citi Bike ad, I wasn't sure which category these rental bikes might fit into - they don't really seem to fit any of them.": {
+    "num_ads": 1,
+    "strategies_used": {
+      "Behavioral / Action-Oriented Messaging": 1
+    },
+    "avg_sentiment": 0.1364,
+    "top_keywords": [
+      "citi",
+      "design",
+      "service"
+    ]
+  }
+}
