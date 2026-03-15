@@ -245,7 +245,7 @@ project_root/
 ├── clustering/         # strategy clustering and labeling
 ├── analytics/          # strategy statistics and dataset insights
 ├── rag/                # retrieval-augmented marketing assistant
-├── demo/               # interactive frontend (Gradio demo)
+├── visualization/               # interactive frontend (Gradio demo)
 ├── database/           # SQLite database creation and storage
 ├── data/               # processed datasets and intermediate outputs
 │
