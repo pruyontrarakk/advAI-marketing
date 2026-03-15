@@ -1,0 +1,90 @@
+{
+  "Public Awareness & Social Impact Campaigns": {
+    "num_ads": 507,
+    "avg_sentiment": 0.5142646942800788,
+    "top_keywords": [
+      "good",
+      "best",
+      "com",
+      "free",
+      "chocolate",
+      "love",
+      "perfect",
+      "beautiful",
+      "win",
+      "probably"
+    ],
+    "top_brands": {
+      "chocolate": 99,
+      "restaurant": 58,
+      "chips": 49,
+      "beauty": 27,
+      "alcohol": 25
+    }
+  },
+  "Retail & Promotional Consumer Ads": {
+    "num_ads": 724,
+    "avg_sentiment": 0.005251933701657459,
+    "top_keywords": [
+      "don",
+      "com",
+      "like",
+      "make",
+      "www",
+      "break",
+      "heart",
+      "buy",
+      "big",
+      "just"
+    ],
+    "top_brands": {
+      "chocolate": 96,
+      "restaurant": 94,
+      "cars": 46,
+      "safety": 44,
+      "beauty": 44
+    }
+  },
+  "Behavioral / Action-Oriented Messaging": {
+    "num_ads": 763,
+    "avg_sentiment": 0.067835124508519,
+    "top_keywords": [
+      "new",
+      "real",
+      "com",
+      "like",
+      "black",
+      "time",
+      "chocolate",
+      "dove",
+      "chicken",
+      "life"
+    ],
+    "top_brands": {
+      "chocolate": 111,
+      "restaurant": 96,
+      "cars": 73,
+      "beauty": 67,
+      "financial": 55
+    }
+  },
+  "Brand & Packaged Goods Messaging": {
+    "num_ads": 52,
+    "avg_sentiment": 0.15700576923076925,
+    "top_keywords": [
+      "nissan",
+      "new",
+      "excites",
+      "fun",
+      "innovation",
+      "gt",
+      "people",
+      "built",
+      "2013",
+      "car"
+    ],
+    "top_brands": {
+      "cars": 52
+    }
+  }
+}
