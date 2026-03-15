@@ -242,6 +242,7 @@ project_root/
 │
 ├── cv/                 # computer vision extraction pipeline
 ├── nlp/                # text processing and sentiment analysis
+├── pipeline/           # end-to-end pipeline scripts to run the full system from data extraction to strategy analysis
 ├── clustering/         # strategy clustering and labeling
 ├── analytics/          # strategy statistics and dataset insights
 ├── rag/                # retrieval-augmented marketing assistant
